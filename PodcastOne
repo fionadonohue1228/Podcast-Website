@@ -1,1 +1,20 @@
-  <p><a href="index.html"> Back </a></p>
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  background-color: pink;   
+  color: white;           
+  font-family: Montserrat; 
+  font-size: 24px;            
+}
+h1 {
+  font-size: 25px;
+  color: white;      
+  text-align: center;
+}
+</style>
+  <h1>
+      Podcast One: What is the Difference Between a Data Scientist and Data Analyst?
+  </h1>
+
+<p><a href="index.html"> Back </a></p>
